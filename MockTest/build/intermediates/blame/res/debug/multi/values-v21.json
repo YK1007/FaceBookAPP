@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\FaceBookAPP\\MockTest\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values-v21\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 55,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 60,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values-v21\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 60,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 44,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values-v21\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 44,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 78,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 78,
+                        "endOffset": 800
+                    }
+                }
+            }
+        ]
+    }
+]

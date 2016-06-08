@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "E:\\FaceBookAPP\\MockTest\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 57,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 55,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 61,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 61,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 45,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 45,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 44,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 44,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 58,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 58,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 57,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 57,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 55,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 55,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 59,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 59,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 53,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 53,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 49,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 49,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 41,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1009,
+                        "endColumn": 41,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 37,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 37,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 54,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 54,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 68,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "E:\\FaceBookAPP\\MockTest\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 68,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    }
+]
